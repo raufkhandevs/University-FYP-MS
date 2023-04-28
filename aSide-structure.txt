@@ -1,0 +1,46 @@
+1. Users Management
+	-> roles
+	-> permissions
+	-> users
+2. Student Management
+	-> All Students (enroll students)
+	-> generate student report
+	-> 
+3. FYP Registrations
+	-> apply for registration (FYP-ID/Supervisor Allocation/Project Idea)(student only)
+	-> create deadline (notify)
+	-> students registration ID (view late status)
+	-> Porject Registration and approval
+4. Announcements
+	-> All (create)
+5. Panels
+	-> All panelist (CURD)
+6. Faculty
+	-> All
+	-> Supervisors (workload)
+7. Results
+	-> View Grades (update by superviser if get consent by PC/HOD)
+	-> add grade (with comments) | and after finalization submit to HOD
+	-> generate result sheet (individual) / share
+	-> Generate Template (optional)
+	-> Add Final Grade
+	-> view final grading
+8. Groups 
+	-> my group
+	-> All (CURD)
+	-> assigned groups details
+	-> Private Chat with group
+	-> schedule meeting 	
+	-> send meeting report to PC
+9. Submissions
+	-> submissions types (CURD)
+	-> Upload Material
+	-> All Submissions (CURD)
+10. Fields
+	-> all (CURD)
+	-> manage fields
+11. Defense 
+	-> all (CURD)
+12. Guest
+
+13. General Chat
